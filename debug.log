@@ -316,3 +316,91 @@
 {"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:36:35.660Z","v":0}
 {"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2020-03-20T08:36:35.660Z","v":0}
 {"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:36:35.660Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2020-03-20T08:39:17.045Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2020-03-20T08:39:17.046Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2020-03-20T08:39:17.046Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2020-03-20T08:39:17.046Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2020-03-20T08:39:17.046Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2020-03-20T08:39:17.047Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2020-03-20T08:39:17.050Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:17.056Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2020-03-20T08:39:17.056Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:17.056Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2020-03-20T08:39:17.056Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:17.056Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2020-03-20T08:39:17.056Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:17.056Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2020-03-20T08:39:24.132Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2020-03-20T08:39:24.132Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2020-03-20T08:39:24.132Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2020-03-20T08:39:24.132Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2020-03-20T08:39:24.132Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2020-03-20T08:39:24.132Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2020-03-20T08:39:24.134Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:24.139Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2020-03-20T08:39:24.139Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:24.139Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2020-03-20T08:39:24.139Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:24.139Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2020-03-20T08:39:24.139Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:39:24.139Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2020-03-20T08:40:51.236Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2020-03-20T08:40:51.236Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2020-03-20T08:40:51.237Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2020-03-20T08:40:51.237Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2020-03-20T08:40:51.237Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2020-03-20T08:40:51.237Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2020-03-20T08:40:51.239Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:51.246Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2020-03-20T08:40:51.247Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:51.247Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2020-03-20T08:40:51.247Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:51.247Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2020-03-20T08:40:51.247Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:51.247Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2020-03-20T08:40:52.214Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2020-03-20T08:40:52.214Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2020-03-20T08:40:52.215Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2020-03-20T08:40:52.215Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2020-03-20T08:40:52.215Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2020-03-20T08:40:52.215Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2020-03-20T08:40:52.216Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:52.220Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2020-03-20T08:40:52.220Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:52.220Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2020-03-20T08:40:52.220Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:52.220Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2020-03-20T08:40:52.220Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:40:52.221Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2020-03-20T08:41:06.107Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2020-03-20T08:41:06.107Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2020-03-20T08:41:06.107Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2020-03-20T08:41:06.107Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2020-03-20T08:41:06.108Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2020-03-20T08:41:06.108Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2020-03-20T08:41:06.110Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:41:06.117Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2020-03-20T08:41:06.117Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:41:06.117Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2020-03-20T08:41:06.117Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:41:06.117Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2020-03-20T08:41:06.117Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:41:06.118Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Theme config loaded.","time":"2020-03-20T08:43:23.689Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2020-03-20T08:43:23.690Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2020-03-20T08:43:23.888Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2020-03-20T08:43:23.888Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2020-03-20T08:43:23.888Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2020-03-20T08:43:23.888Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2020-03-20T08:43:23.888Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2020-03-20T08:43:23.888Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2020-03-20T08:43:23.890Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:43:23.894Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"========================= ATTENTION! ==========================","time":"2020-03-20T08:43:23.894Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:43:23.895Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" NexT repository is moving here: https://github.com/theme-next ","time":"2020-03-20T08:43:23.895Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:43:23.895Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":" It's rebase to v6.0.0 and future maintenance will resume there","time":"2020-03-20T08:43:23.895Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":40,"msg":"===============================================================","time":"2020-03-20T08:43:23.895Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":30,"msg":"Catch you later","time":"2020-03-20T08:43:33.904Z","v":0}
+{"name":"hexo","hostname":"github","pid":6497,"level":20,"msg":"Database saved","time":"2020-03-20T08:43:33.922Z","v":0}
